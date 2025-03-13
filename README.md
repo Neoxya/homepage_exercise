@@ -1,7 +1,6 @@
 # homepage_exercise
 
-Hello Neoxya! Thanks for using this template.
+Hello ! This is an exercise based on a provided template.
 
-Don't forget to update this README.md file to suit your project's needs!
 
 
